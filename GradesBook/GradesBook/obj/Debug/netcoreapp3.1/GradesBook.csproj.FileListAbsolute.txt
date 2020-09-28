@@ -1,0 +1,13 @@
+C:\Users\Vartotojas\Desktop\KITM\NET\mokymasis internetu\GradesBook\GradesBook\bin\Debug\netcoreapp3.1\GradesBook.exe
+C:\Users\Vartotojas\Desktop\KITM\NET\mokymasis internetu\GradesBook\GradesBook\bin\Debug\netcoreapp3.1\GradesBook.deps.json
+C:\Users\Vartotojas\Desktop\KITM\NET\mokymasis internetu\GradesBook\GradesBook\bin\Debug\netcoreapp3.1\GradesBook.runtimeconfig.json
+C:\Users\Vartotojas\Desktop\KITM\NET\mokymasis internetu\GradesBook\GradesBook\bin\Debug\netcoreapp3.1\GradesBook.runtimeconfig.dev.json
+C:\Users\Vartotojas\Desktop\KITM\NET\mokymasis internetu\GradesBook\GradesBook\bin\Debug\netcoreapp3.1\GradesBook.dll
+C:\Users\Vartotojas\Desktop\KITM\NET\mokymasis internetu\GradesBook\GradesBook\bin\Debug\netcoreapp3.1\GradesBook.pdb
+C:\Users\Vartotojas\Desktop\KITM\NET\mokymasis internetu\GradesBook\GradesBook\obj\Debug\netcoreapp3.1\GradesBook.csprojAssemblyReference.cache
+C:\Users\Vartotojas\Desktop\KITM\NET\mokymasis internetu\GradesBook\GradesBook\obj\Debug\netcoreapp3.1\GradesBook.AssemblyInfoInputs.cache
+C:\Users\Vartotojas\Desktop\KITM\NET\mokymasis internetu\GradesBook\GradesBook\obj\Debug\netcoreapp3.1\GradesBook.AssemblyInfo.cs
+C:\Users\Vartotojas\Desktop\KITM\NET\mokymasis internetu\GradesBook\GradesBook\obj\Debug\netcoreapp3.1\GradesBook.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Desktop\KITM\NET\mokymasis internetu\GradesBook\GradesBook\obj\Debug\netcoreapp3.1\GradesBook.dll
+C:\Users\Vartotojas\Desktop\KITM\NET\mokymasis internetu\GradesBook\GradesBook\obj\Debug\netcoreapp3.1\GradesBook.pdb
+C:\Users\Vartotojas\Desktop\KITM\NET\mokymasis internetu\GradesBook\GradesBook\obj\Debug\netcoreapp3.1\GradesBook.genruntimeconfig.cache
