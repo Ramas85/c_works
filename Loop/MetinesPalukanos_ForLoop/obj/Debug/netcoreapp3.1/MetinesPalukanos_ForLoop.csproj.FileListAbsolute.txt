@@ -1,0 +1,13 @@
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\Loop\MetinesPalukanos_ForLoop\bin\Debug\netcoreapp3.1\MetinesPalukanos_ForLoop.exe
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\Loop\MetinesPalukanos_ForLoop\bin\Debug\netcoreapp3.1\MetinesPalukanos_ForLoop.deps.json
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\Loop\MetinesPalukanos_ForLoop\bin\Debug\netcoreapp3.1\MetinesPalukanos_ForLoop.runtimeconfig.json
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\Loop\MetinesPalukanos_ForLoop\bin\Debug\netcoreapp3.1\MetinesPalukanos_ForLoop.runtimeconfig.dev.json
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\Loop\MetinesPalukanos_ForLoop\bin\Debug\netcoreapp3.1\MetinesPalukanos_ForLoop.dll
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\Loop\MetinesPalukanos_ForLoop\bin\Debug\netcoreapp3.1\MetinesPalukanos_ForLoop.pdb
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\Loop\MetinesPalukanos_ForLoop\obj\Debug\netcoreapp3.1\MetinesPalukanos_ForLoop.csprojAssemblyReference.cache
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\Loop\MetinesPalukanos_ForLoop\obj\Debug\netcoreapp3.1\MetinesPalukanos_ForLoop.AssemblyInfoInputs.cache
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\Loop\MetinesPalukanos_ForLoop\obj\Debug\netcoreapp3.1\MetinesPalukanos_ForLoop.AssemblyInfo.cs
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\Loop\MetinesPalukanos_ForLoop\obj\Debug\netcoreapp3.1\MetinesPalukanos_ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\Loop\MetinesPalukanos_ForLoop\obj\Debug\netcoreapp3.1\MetinesPalukanos_ForLoop.dll
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\Loop\MetinesPalukanos_ForLoop\obj\Debug\netcoreapp3.1\MetinesPalukanos_ForLoop.pdb
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\Loop\MetinesPalukanos_ForLoop\obj\Debug\netcoreapp3.1\MetinesPalukanos_ForLoop.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\PirmaPaskaita\PirmaPaskaita\bin\Debug\netcoreapp3.1\PirmaPaskaita.exe
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\PirmaPaskaita\PirmaPaskaita\bin\Debug\netcoreapp3.1\PirmaPaskaita.deps.json
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\PirmaPaskaita\PirmaPaskaita\bin\Debug\netcoreapp3.1\PirmaPaskaita.runtimeconfig.json
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\PirmaPaskaita\PirmaPaskaita\bin\Debug\netcoreapp3.1\PirmaPaskaita.runtimeconfig.dev.json
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\PirmaPaskaita\PirmaPaskaita\bin\Debug\netcoreapp3.1\PirmaPaskaita.dll
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\PirmaPaskaita\PirmaPaskaita\bin\Debug\netcoreapp3.1\PirmaPaskaita.pdb
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\PirmaPaskaita\PirmaPaskaita\obj\Debug\netcoreapp3.1\PirmaPaskaita.csprojAssemblyReference.cache
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\PirmaPaskaita\PirmaPaskaita\obj\Debug\netcoreapp3.1\PirmaPaskaita.AssemblyInfoInputs.cache
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\PirmaPaskaita\PirmaPaskaita\obj\Debug\netcoreapp3.1\PirmaPaskaita.AssemblyInfo.cs
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\PirmaPaskaita\PirmaPaskaita\obj\Debug\netcoreapp3.1\PirmaPaskaita.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\PirmaPaskaita\PirmaPaskaita\obj\Debug\netcoreapp3.1\PirmaPaskaita.dll
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\PirmaPaskaita\PirmaPaskaita\obj\Debug\netcoreapp3.1\PirmaPaskaita.pdb
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\PirmaPaskaita\PirmaPaskaita\obj\Debug\netcoreapp3.1\PirmaPaskaita.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\ListOfGrades\ListOfGrades\bin\Debug\netcoreapp3.1\ListOfGrades.exe
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\ListOfGrades\ListOfGrades\bin\Debug\netcoreapp3.1\ListOfGrades.deps.json
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\ListOfGrades\ListOfGrades\bin\Debug\netcoreapp3.1\ListOfGrades.runtimeconfig.json
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\ListOfGrades\ListOfGrades\bin\Debug\netcoreapp3.1\ListOfGrades.runtimeconfig.dev.json
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\ListOfGrades\ListOfGrades\bin\Debug\netcoreapp3.1\ListOfGrades.dll
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\ListOfGrades\ListOfGrades\bin\Debug\netcoreapp3.1\ListOfGrades.pdb
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\ListOfGrades\ListOfGrades\obj\Debug\netcoreapp3.1\ListOfGrades.csprojAssemblyReference.cache
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\ListOfGrades\ListOfGrades\obj\Debug\netcoreapp3.1\ListOfGrades.AssemblyInfoInputs.cache
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\ListOfGrades\ListOfGrades\obj\Debug\netcoreapp3.1\ListOfGrades.AssemblyInfo.cs
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\ListOfGrades\ListOfGrades\obj\Debug\netcoreapp3.1\ListOfGrades.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\ListOfGrades\ListOfGrades\obj\Debug\netcoreapp3.1\ListOfGrades.dll
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\ListOfGrades\ListOfGrades\obj\Debug\netcoreapp3.1\ListOfGrades.pdb
+C:\Users\Vartotojas\Desktop\KITM\NET\c-works\ListOfGrades\ListOfGrades\obj\Debug\netcoreapp3.1\ListOfGrades.genruntimeconfig.cache
