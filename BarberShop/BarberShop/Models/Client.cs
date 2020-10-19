@@ -9,7 +9,7 @@ namespace BarberShop.Models
     {
         public Client()
         {
-            Id = Guid.NewGuid();
+           
         }
     }
 }

@@ -63,7 +63,7 @@ using BarberShop.Models;
             WriteLiteral("\r\n<div class=\"jumbotron\">\r\n    <h1 class=\"display-4\">Welcome to My barber shop</h1>\r\n    <p class=\"lead\">Please book an appointment</p>\r\n\r\n\r\n    <p class=\"lead\">\r\n        ");
             EndContext();
             BeginContext(216, 133, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8c19b99ea5fc45e485d72099010e09d6", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "180ea4ebbc614bc8b19b12eb3e7fc998", async() => {
                 BeginContext(332, 13, true);
                 WriteLiteral("View Bookings");
                 EndContext();

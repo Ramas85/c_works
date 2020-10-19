@@ -6,22 +6,35 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace BarberShop.Controllers
-{
+{   
     public class BookingController : Controller
     {
-        public IActionResult Index()
-        {
-            Barber Paulius = new Barber() { Name = "Paulius", Surname = "Kazkoks" };
-            Barber Tomas = new Barber() { Name = "Tomas", Surname = "Sinickis" };
-            Barber Barbora = new Barber() { Name = "Barbora", Surname = "Zirklyte" };
+        private readonly BookingService service;
 
-            List<Booking> bookings = new List<Booking>()
+        public Booking Controller(BookingService service)
+        {
+            this.service = service;
+        }
+
+
+        public IActionResult Index(int? id)
+        {
+            var bookings = db.GetBookings();
+
+            if (id != null )
             {
-                new Booking(){Barber = Paulius, BookingStatus = BookingStatus.available, AvailableTime = DateTime.Now},
-                new Booking(){Barber = Tomas, BookingStatus = BookingStatus.available, AvailableTime = DateTime.Now},
-                new Booking(){Barber = Barbora, BookingStatus = BookingStatus.available, AvailableTime = DateTime.Now.AddDays(-1)},
-            };
-            return View(bookings);
+                return View("~/View/Booking/BookingDetails.cshtml", bookings.Where(b => b.Id == id).FirstOrDefault());
+            }
+                return View(bookings);
+        }
+        [HttpPost]
+        public IActionResult Register(RegisterDetails model)
+        {
+            if (ModelState.IsValid) 
+            {
+                return View();
+            }
+            return View();//error view
         }
     }
 }

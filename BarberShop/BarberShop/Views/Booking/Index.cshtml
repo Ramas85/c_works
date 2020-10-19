@@ -1,4 +1,4 @@
-﻿@model List<Booking>
+﻿@model IEnumerable<Booking>
 
 <h1>Available Bookings</h1>
 <br />
@@ -25,7 +25,7 @@
                 <td>@item.Barber.Name</td>
                 <td>@item.AvailableTime.ToString()</td>
                 <td>@item.BookingStatus.ToString()</td>
-                <td><a href="#">more info</a></td>
+                <td><a asp-action="Index" asp-controller="booking" asp-route-id="@item.Id"></a></td>
             </tr>
         }
     </tbody>

@@ -1,0 +1,34 @@
+﻿@model Booking
+<dl class="row">
+    <dt class="col-sm-3">Vardas Kirpejo</dt>
+    <dd class="col-sm-9">@Model.Barber.Name @Model.Barber.Surname</dd>
+
+    <dt class="col-sm-3">Laikas</dt>
+    <dd class="col-sm-9">
+        <p>@Model.AvailableTime.ToString()</p>
+        
+    </dd>
+
+    <dt class="col-sm-3">Statusas</dt>
+    <dd class="col-sm-9">@Model.BookingStatus.ToString</dd>
+    </dl>
+<span class="border border-primary"></span>
+   
+<form asp-controller="Booking" asp-action="Register" method="post">
+    <!-- Input and Submit elements -->
+
+    <form>
+        <input type="hidden" value="@Model.Id" name="BookingId"/>
+        <div class="form-group">
+            <label for="exampleInputEmail1">Email address</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" name="email" aria-describedby="emailHelp">
+            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+        </div>
+        
+        <div class="form-group form-check">
+            <input type="checkbox" class="form-check-input" id="exampleCheck1" name= "Confirmed" value= "false">
+            <label class="form-check-label" for="exampleCheck1">Check me in</label>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</form>

@@ -9,9 +9,9 @@ namespace BarberShop.Models
     {
         public Booking()
         {
-            Id = Guid.NewGuid();
+            
         }
-        public Guid Id { get; set; }
+        public int Id { get; set; }
         public Barber Barber { get; set; }
        
         public DateTime AvailableTime { get; set; }

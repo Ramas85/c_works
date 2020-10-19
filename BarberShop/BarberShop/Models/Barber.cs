@@ -9,7 +9,11 @@ namespace BarberShop.Models
     {
         public Barber()
         {
-            Id = Guid.NewGuid();
-        }        
+            int Id = 1;
+        }
+        public string PhoneNumber { get; set; }
+        public DateTime AvailableTime { get; set; }
+        public string WorkingHours { get; set; }
+
     }
 }

@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarberShop", "BarberShop\BarberShop.csproj", "{4EB8FF33-39B2-45C3-84A8-ECB9BDBF2D13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarberShop", "BarberShop\BarberShop.csproj", "{4EB8FF33-39B2-45C3-84A8-ECB9BDBF2D13}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domains", "Domains", "{056F2E58-D901-45FE-988F-4279972DA4C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarberShop.Domain", "BarberShop.Domain\BarberShop.Domain.csproj", "{20FBDD55-8E05-43E6-AF02-AA7912EDD6EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InternalServices", "InternalServices", "{3105F65C-7245-406E-B184-D8887B7C8EAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarberShop.Services", "BarberShop.Services\BarberShop.Services.csproj", "{BE9C4C98-E262-459D-93F8-B312D95BD83E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +23,21 @@ Global
 		{4EB8FF33-39B2-45C3-84A8-ECB9BDBF2D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EB8FF33-39B2-45C3-84A8-ECB9BDBF2D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EB8FF33-39B2-45C3-84A8-ECB9BDBF2D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20FBDD55-8E05-43E6-AF02-AA7912EDD6EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20FBDD55-8E05-43E6-AF02-AA7912EDD6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20FBDD55-8E05-43E6-AF02-AA7912EDD6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20FBDD55-8E05-43E6-AF02-AA7912EDD6EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE9C4C98-E262-459D-93F8-B312D95BD83E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9C4C98-E262-459D-93F8-B312D95BD83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9C4C98-E262-459D-93F8-B312D95BD83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9C4C98-E262-459D-93F8-B312D95BD83E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{20FBDD55-8E05-43E6-AF02-AA7912EDD6EB} = {056F2E58-D901-45FE-988F-4279972DA4C4}
+		{BE9C4C98-E262-459D-93F8-B312D95BD83E} = {3105F65C-7245-406E-B184-D8887B7C8EAD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2D34538C-FCB3-4C03-A673-6B44FC6E5D3B}
